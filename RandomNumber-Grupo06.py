@@ -1,5 +1,4 @@
 # EQUPE 6 🔥😎 - David, Arthur, Maeyve, Savio Ramon
-
 import random
 cont = 0
 resposta = 's'
