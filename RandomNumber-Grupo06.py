@@ -2,9 +2,8 @@
 
 import random
 cont = 0
-numeroDigitado = 0
 resposta = 's'
-numeroSorteado = random.randint(1, 100)
+numeroSorteado = random.randint(0, 100)
 print('==============JOGO DE ADIVINHAÇÃO==============\n')
 print('               Adivinhe o número               \n')
 print('===============================================\n')
